@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonrj12  
 - 👀 I’m interested in full-stack development and building innovative software solutions.  
-- 🌱 I’m currently learning advanced React, .NET development, and data structures & algorithms in Java.  
+- 🌱 I’m currently learning advanced React, JavaScript, and data structures & algorithms in Java.  
 - 💞️ I’m looking to collaborate on open-source projects, web applications, and system integrations.  
 - 📫 How to reach me: [rjjason333@gmail.com](mailto:rjjason333@gmail.com)  
 - 😄 Pronouns: He/Him  
