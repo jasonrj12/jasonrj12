@@ -70,7 +70,7 @@ I love building apps that make daily operations easier - from coffee shops ☕ t
 
 ## 🏆 Visitor Counter
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
+  <img src="https://profile-counter.glitch.me/jasonrj12/count.svg" />
 </p>
 
 ---
