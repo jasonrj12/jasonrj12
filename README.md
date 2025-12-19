@@ -46,7 +46,7 @@ I work across **frontend, backend, and system design**, delivering solutions for
 | Project | Description | Tech |
 |-------|-------------|------|
 | **Ceylon Chai POS System** | React-based POS system with order management, customer tracking & real-time updates | React, Firebase |
-| **Bus Seat Booking System** | Real-time bus seat booking web app with admin dashboard, QR verification & live seat status | **React**, JavaScript, API |
+| **Bus Seat Booking System** | Real-time bus seat booking web app with admin dashboard, Booking SMS and Passenger details section | **React**, JavaScript, API |
 | **SPC SOC Application** | Enterprise supplier registration & inventory management system for State Pharmaceutical Cooperation | .NET, SQL Server |
 | **Orchi-Flora Temperature Analyzer** | Data-driven orchid growth suitability system using temperature analysis | C++ |
 
@@ -76,15 +76,6 @@ I work across **frontend, backend, and system design**, delivering solutions for
 I love building **real-world software** that improves daily operations — from **bus booking systems 🚍** to **healthcare platforms 🏥**.
 
 <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="240"/>
-
----
-
-## 👀 Profile Views
-<div align="center">
-<img src="https://profile-counter.glitch.me/jasonrj12/count.svg"/>
-</div>
-
----
 
 <div align="center">
 
