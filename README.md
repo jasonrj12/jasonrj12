@@ -73,7 +73,7 @@ I work across **frontend, backend, and system design**, delivering solutions for
 ---
 
 ## ☕ Fun Fact
-I love building **real-world software** that improves daily operations — from **bus booking systems 🚍** to **healthcare platforms 🏥**.
+I love building **real-world software** that improves daily operations - from **bus booking systems 🚍** to **healthcare platforms 🏥**.
 
 <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="240"/>
 
