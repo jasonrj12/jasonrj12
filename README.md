@@ -1,13 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I’m **Jason RJ**
+# 👋 Hi, I'm Jason RJ
 
-<a href="https://github.com/jasonrj12">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%7C+.NET+Engineer;Real-Time+Systems+Builder;POS+%26+Booking+System+Specialist;Building+Scalable+Web+Apps" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;React+%7C+.NET+%7C+Firebase+Developer;Real-Time+Systems+Engineer;Modern+Web+Application+Developer;Building+Scalable+Modern+Web+Applications" alt="Typing SVG" />
 
-### 🚀 Tech Innovator • 💻 Full-Stack Developer • 🧠 Continuous Learner  
-**Specializing in React, .NET, Firebase, Real-time Systems & Enterprise Applications**
+<br/>
+
+### 🚀 Full-Stack Developer • 💻 System Builder • ⚡ Tech Enthusiast
+
+<p>
+I build scalable web applications, real-time systems, enterprise solutions, and modern user experiences.
+</p>
+
+<p>
+🌐 Portfolio: <a href="https://www.jasonrj.site">www.jasonrj.site</a>
+</p>
 
 <img src="https://media.giphy.com/media/3o7aD4yY7kU0wHL6Ji/giphy.gif" width="280"/>
 
@@ -15,70 +22,119 @@
 
 ---
 
-## 👨‍💻 About Me
-I’m a **Full-Stack Software Developer** focused on building **scalable, secure, and real-time web applications**.  
-I work across **frontend, backend, and system design**, delivering solutions for **businesses, startups, and government systems**.
+# 👨‍💻 About Me
 
-- 🔹 React-based web applications with modern UI/UX  
-- 🔹 Real-time booking & POS systems  
-- 🔹 Enterprise & SOC-based applications  
-- 🔹 Clean architecture, performance & automation  
+I'm a passionate **Full-Stack Software Developer** focused on building:
+
+- ⚡ Real-time web applications  
+- 🌐 Modern responsive websites  
+- 🏥 Enterprise management systems  
+- 🔐 Secure backend architectures  
+- 🚀 Scalable and high-performance applications  
+
+I enjoy solving real-world problems using clean architecture, modern UI/UX, and efficient backend solutions.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack
+
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+## Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+## Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects (SEO Optimized)
-| Project | Description | Tech |
-|-------|-------------|------|
-| **Ceylon Chai POS System** | React-based POS system with order management, customer tracking & real-time updates | React, Firebase |
-| **Bus Seat Booking System** | Real-time bus seat booking web app with admin dashboard, Booking SMS and Passenger details section | **React**, JavaScript, API |
-| **SPC SOC Application** | Enterprise supplier registration & inventory management system for State Pharmaceutical Cooperation | .NET, SQL Server |
-| **Orchi-Flora Temperature Analyzer** | Data-driven orchid growth suitability system using temperature analysis | C++ |
+# 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🚍 **Bus Seat Booking System** | Real-time bus booking platform with admin dashboard, seat management & booking workflow | React, Firebase, APIs |
+| ☕ **Ceylon Chai POS System** | POS system with customer management, billing, draft orders & receipt printing | React, Firebase |
+| 🏥 **SPC SOC Application** | Enterprise supplier registration & inventory management platform | .NET, SQL Server |
+| 🌸 **Orchi-Flora Temperature Analyzer** | Orchid growth suitability analysis system using environmental data | C++ |
+| 🌐 **Restaurant Webshop Platforms** | Responsive restaurant ordering websites with payment integration | React, TailwindCSS |
 
 ---
 
-## 📊 GitHub Stats & Activity
+# 📈 GitHub Analytics
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jasonrj12&show_icons=true&theme=tokyonight&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrj12&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jasonrj12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrj12&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonrj12&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌍 Connect With Me
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renish-jason)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rjjason333@gmail.com)
+<a href="https://www.linkedin.com/in/renish-jason-b96b8023b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rjjason333@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jasonrj12">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.jasonrj.site">
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## ☕ Fun Fact
-I love building **real-world software** that improves daily operations - from **bus booking systems 🚍** to **healthcare platforms 🏥**.
+# 💡 Current Focus
 
-<img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="240"/>
+- 🔹 Advanced Full-Stack Development  
+- 🔹 Real-Time Web Applications  
+- 🔹 System Architecture & Scalability  
+- 🔹 AI-integrated Software Solutions  
+- 🔹 Enterprise Software Engineering  
+
+---
+
+# ☕ Fun Fact
+
+I enjoy building software that solves real operational problems — from 🚍 transport systems to 🏥 healthcare applications and 🌐 business platforms.
+
+---
 
 <div align="center">
 
-### ⭐ If you find my work useful, consider following me & starring my repositories!
+## ⭐ Thanks for visiting my profile!
+
+If you like my projects, consider giving a ⭐ to the repositories and following my GitHub profile.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer"/>
 
 </div>
