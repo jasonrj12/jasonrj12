@@ -1,6 +1,3 @@
-Here’s the **full GitHub profile `README.md` code**, updated to use **`https://jasonrj.site`** as your main portfolio and structured to look professional to a hiring manager.
-
-````markdown
 <div align="center">
 
 # 👋 Hi, I'm Renish Jason
