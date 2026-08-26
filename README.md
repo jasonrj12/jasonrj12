@@ -10,17 +10,17 @@
 
 <p>
   <a href="https://jasonrj.site">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-jasonrj.site-667eea?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-jasonrj.site-667eea?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="https://github.com/jasonrj12">
-    <img src="https://img.shields.io/badge/GitHub-jasonrj12-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-jasonrj12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/renish-jason-b96b8023b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Renish_Jason-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Renish_Jason-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=&fontSize=0">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header" alt="Header">
 
 </div>
 
@@ -39,19 +39,19 @@ I'm a **Software Engineering student and Full-Stack Developer** focused on build
 
 I enjoy transforming real-world problems into usable software — from **booking platforms and POS systems to e-commerce applications and AI-based legal technology**.
 
-- 🎓 BSc (Hons) Software Engineering
-- 💻 Full-Stack Development
-- 🤖 AI / Machine Learning
-- 🏗️ Software Architecture
-- 🗄️ Database Systems
-- 🎨 UI/UX & Graphic Design
-- 🇱🇰 Sri Lanka
+* 🎓 BSc (Hons) Software Engineering
+* 💻 Full-Stack Development
+* 🤖 AI / Machine Learning
+* 🏗️ Software Architecture
+* 🗄️ Database Systems
+* 🎨 UI/UX & Graphic Design
+* 🇱🇰 Sri Lanka
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jasonrj12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=jasonrj12&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats">
 
 </td>
 
@@ -66,25 +66,25 @@ I enjoy transforming real-world problems into usable software — from **booking
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,python,php" />
+<img src="https://skillicons.dev/icons?i=java,js,python,php" alt="Programming Languages">
 
 <br><br>
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend Technologies">
 
 <br><br>
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,mongodb" alt="Backend and Database Technologies">
 
 <br><br>
 
 ### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vscode" alt="Development Tools">
 
 </div>
 
@@ -103,13 +103,13 @@ A full-stack bus reservation platform designed to manage bus schedules, seat ava
 
 ### Features
 
-- 🚌 Bus schedule management
-- 💺 Real-time seat availability
-- 👤 Passenger booking
-- 🎫 Ticket information
-- 🔐 Admin dashboard
-- 📱 Responsive interface
-- 🔄 API integration
+* 🚌 Bus schedule management
+* 💺 Real-time seat availability
+* 👤 Passenger booking
+* 🎫 Ticket information
+* 🔐 Admin dashboard
+* 📱 Responsive interface
+* 🔄 API integration
 
 ### Tech Stack
 
@@ -118,7 +118,7 @@ A full-stack bus reservation platform designed to manage bus schedules, seat ava
 <br>
 
 <a href="https://github.com/jasonrj12">
-<img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Bus Booking Project">
 </a>
 
 </td>
@@ -131,13 +131,13 @@ A modern Point of Sale system designed for cafés and food-service businesses.
 
 ### Features
 
-- 🛒 Order management
-- 📦 Product management
-- 👥 Customer management
-- 🧾 Billing
-- 🖨️ Receipt printing
-- 🔥 Firebase integration
-- 📱 Responsive interface
+* 🛒 Order management
+* 📦 Product management
+* 👥 Customer management
+* 🧾 Billing
+* 🖨️ Receipt printing
+* 🔥 Firebase integration
+* 📱 Responsive interface
 
 ### Tech Stack
 
@@ -146,7 +146,7 @@ A modern Point of Sale system designed for cafés and food-service businesses.
 <br>
 
 <a href="https://ceylonchai-pos.netlify.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Ceylon Chai POS Live Demo">
 </a>
 
 </td>
@@ -165,12 +165,12 @@ An AI-powered legal information system focused on **Sri Lankan Labour Law**.
 
 ### Exploring
 
-- 🧠 Natural Language Processing
-- 🔎 Semantic Search
-- 📚 Legal Document Processing
-- 🔢 Text Embeddings
-- 🤖 Retrieval-Augmented Generation
-- 📖 Source-based AI responses
+* 🧠 Natural Language Processing
+* 🔎 Semantic Search
+* 📚 Legal Document Processing
+* 🔢 Text Embeddings
+* 🤖 Retrieval-Augmented Generation
+* 📖 Source-based AI responses
 
 ### AI Pipeline
 
@@ -190,7 +190,7 @@ Semantic Retrieval
 AI Model
        ↓
 Answer + Sources
-````
+```
 
 ### Tech Stack
 
@@ -199,7 +199,7 @@ Answer + Sources
 <br>
 
 <a href="https://lexaidlk.vercel.app/">
-<img src="https://img.shields.io/badge/View_Project-764ba2?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/View_Project-764ba2?style=for-the-badge&logo=vercel&logoColor=white" alt="View LexAid Project">
 </a>
 
 </td>
@@ -230,7 +230,7 @@ A Java-based management system demonstrating object-oriented programming, softwa
 <br>
 
 <a href="https://github.com/jasonrj12">
-<img src="https://img.shields.io/badge/View_Project-ED8B00?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View_Project-ED8B00?style=for-the-badge&logo=github&logoColor=white" alt="View OceanView Project">
 </a>
 
 </td>
@@ -484,13 +484,13 @@ Cloud & DevOps
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jasonrj12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=jasonrj12&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrj12&layout=compact&theme=tokyonight&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrj12&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=jasonrj12&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=jasonrj12&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
@@ -500,7 +500,7 @@ Cloud & DevOps
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasonrj12&theme=tokyo-night&hide_border=true&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasonrj12&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph">
 
 </div>
 
@@ -512,7 +512,7 @@ Cloud & DevOps
 
 <a href="https://jasonrj.site">
 
-<img src="https://img.shields.io/badge/Visit_My_Portfolio-jasonrj.site-667eea?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Visit_My_Portfolio-jasonrj.site-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio">
 
 </a>
 
@@ -557,15 +557,15 @@ Cloud & DevOps
 <div align="center">
 
 <a href="https://jasonrj.site">
-<img src="https://img.shields.io/badge/Portfolio-jasonrj.site-667eea?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-jasonrj.site-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://github.com/jasonrj12">
-<img src="https://img.shields.io/badge/GitHub-jasonrj12-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-jasonrj12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/renish-jason-b96b8023b/">
-<img src="https://img.shields.io/badge/LinkedIn-Renish_Jason-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Renish_Jason-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -580,7 +580,7 @@ Cloud & DevOps
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jasonrj12&label=Profile%20Views&color=667eea&style=flat">
+<img src="https://komarev.com/ghpvc/?username=jasonrj12&label=Profile%20Views&color=667eea&style=flat" alt="Profile Views">
 
 <br><br>
 
@@ -588,4 +588,4 @@ Cloud & DevOps
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" alt="Footer">
