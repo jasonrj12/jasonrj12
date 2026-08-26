@@ -198,8 +198,8 @@ Answer + Sources
 
 <br>
 
-<a href="https://github.com/jasonrj12">
-<img src="https://img.shields.io/badge/View_Project-764ba2?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://lexaidlk.vercel.app/">
+<img src="https://img.shields.io/badge/View_Project-764ba2?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </td>
