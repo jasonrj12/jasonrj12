@@ -1,140 +1,475 @@
+If you mean **GitHub profile README with HTML + inline styling**, GitHub only allows a limited subset of HTML and **does not allow custom CSS files or `<style>` blocks** in README files.
+
+But you can make it look much more polished using supported HTML. Here's a complete `README.md` version with an HTML-based layout:
+
+````markdown
 <div align="center">
 
-# 👋 Hi, I'm Jason RJ
+# 👋 Hi, I'm Renish Jason
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;React+%7C+.NET+%7C+Firebase+Developer;Real-Time+Systems+Engineer;Modern+Web+Application+Developer;Building+Scalable+Modern+Web+Applications" alt="Typing SVG" />
-
-<br/>
-
-### 🚀 Full-Stack Developer • 💻 System Builder • ⚡ Tech Enthusiast
+### Software Engineering Student · Full-Stack Developer · AI Enthusiast
 
 <p>
-I build scalable web applications, real-time systems, enterprise solutions, and modern user experiences.
+  <i>Building practical software that solves real-world problems.</i>
 </p>
 
 <p>
-🌐 Portfolio: <a href="https://www.jasonrj.site">www.jasonrj.site</a>
+  <a href="https://github.com/jasonrj12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/renish-jason-b96b8023b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://renishjason.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
 </p>
 
-<img src="https://media.giphy.com/media/3o7aD4yY7kU0wHL6Ji/giphy.gif" width="280"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=&fontSize=0">
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Software Developer** focused on building:
+<table>
+<tr>
+<td width="55%">
 
-- ⚡ Real-time web applications  
-- 🌐 Modern responsive websites  
-- 🏥 Enterprise management systems  
-- 🔐 Secure backend architectures  
-- 🚀 Scalable and high-performance applications  
+### Hello! I'm Renish 👋
 
-I enjoy solving real-world problems using clean architecture, modern UI/UX, and efficient backend solutions.
+I'm a **Software Engineering student and Full-Stack Developer** interested in building practical applications, business systems, and AI-powered solutions.
+
+I enjoy transforming real-world problems into usable software — from **booking platforms and POS systems to e-commerce applications and AI-based legal technology**.
+
+- 🎓 BSc (Hons) Software Engineering
+- 💻 Full-Stack Development
+- 🤖 AI / Machine Learning
+- 🏗️ Software Architecture
+- 🗄️ Database Systems
+- 🎨 UI/UX & Graphic Design
+- 🇱🇰 Sri Lanka
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jasonrj12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
 <div align="center">
 
-## Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 💻 Languages
 
-## Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,python,php,sql" />
 
-## Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,mongodb" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vscode" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# ⭐ Featured Projects
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 🚍 **Bus Seat Booking System** | Real-time bus booking platform with admin dashboard, seat management & booking workflow | React, Firebase, APIs |
-| ☕ **Ceylon Chai POS System** | POS system with customer management, billing, draft orders & receipt printing | React, Firebase |
-| 🏥 **SPC SOC Application** | Enterprise supplier registration & inventory management platform | .NET, SQL Server |
-| 🌸 **Orchi-Flora Temperature Analyzer** | Orchid growth suitability analysis system using environmental data | C++ |
-| 🌐 **Restaurant Webshop Platforms** | Responsive restaurant ordering websites with payment integration | React, TailwindCSS |
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-# 📈 GitHub Analytics
+## 🚌 Bus Seat Booking
 
-<div align="center">
+A full-stack bus reservation platform designed to manage:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jasonrj12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+- 🚌 Bus schedules
+- 💺 Seat availability
+- 👤 Passenger bookings
+- 🎫 Ticket information
+- 🔐 Admin management
+- 📱 Responsive booking
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrj12&layout=compact&theme=tokyonight&hide_border=true"/>
+### Tech
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonrj12&theme=tokyonight&hide_border=true"/>
+`React` `JavaScript` `Firebase` `REST API`
 
-</div>
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/renish-jason-b96b8023b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rjjason333@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://github.com/jasonrj12">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.jasonrj.site">
-  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</td>
+
+<td width="50%" valign="top">
+
+## ☕ Ceylon Chai POS
+
+A modern Point of Sale system designed for cafés and food-service businesses.
+
+### Features
+
+- 🛒 Order management
+- 📦 Product management
+- 👥 Customer management
+- 🧾 Billing
+- 🖨️ Receipt printing
+- 🔥 Firebase integration
+
+### Tech
+
+`React` `JavaScript` `Firebase` `CSS`
+
+<br>
+
+<a href="https://ceylonchai-pos.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚖️ LexAid
+
+### AI Legal Assistant
+
+An AI-powered legal information system focused on **Sri Lankan Labour Law**.
+
+### Exploring
+
+- 🧠 NLP
+- 🔎 Semantic Search
+- 📚 Legal Document Processing
+- 🔢 Embeddings
+- 🤖 RAG
+- 📖 Source-based AI responses
+
+### Pipeline
+
+```text
+Legal Documents
+      ↓
+Text Processing
+      ↓
+Chunking
+      ↓
+Embeddings
+      ↓
+Vector Database
+      ↓
+Semantic Retrieval
+      ↓
+AI Response
+````
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏨 OceanView
+
+### Resort Management System
+
+A Java-based management application demonstrating software engineering and OOP principles.
+
+### Concepts
+
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+* CRUD
+* Database Integration
+* Validation
+* Error Handling
+
+### Tech
+
+`Java` `OOP` `SQL` `JDBC` `UML`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🍽️ Other Projects
+
+<div align="center">
+
+| Project               |        Type       | Technologies     |
+| :-------------------- | :---------------: | :--------------- |
+| 🚌 Bus Booking        |  Booking Platform | React · Firebase |
+| ☕ Ceylon Chai POS     |  Business System  | React · Firebase |
+| ⚖️ LexAid             |   AI / LegalTech  | AI · NLP · RAG   |
+| 🏨 OceanView          | Management System | Java · SQL       |
+| 🍕 Restaurant Webshop |     E-Commerce    | React · API      |
+| 💊 Pharmacy System    | Management System | PHP · MySQL      |
+| 🏋️ Fitness Center    |  Business Website | PHP · MySQL      |
 
 </div>
 
 ---
 
-# 💡 Current Focus
+# 🧠 What I Build
 
-- 🔹 Advanced Full-Stack Development  
-- 🔹 Real-Time Web Applications  
-- 🔹 System Architecture & Scalability  
-- 🔹 AI-integrated Software Solutions  
-- 🔹 Enterprise Software Engineering  
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Full-Stack**
+
+Web Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏢
+
+**Business**
+
+Management Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI / ML**
+
+Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚌
+
+**Booking**
+
+Platforms
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### ☕
+
+**POS**
+
+Systems
+
+</td>
+
+<td align="center">
+
+### 🛒
+
+**E-Commerce**
+
+Platforms
+
+</td>
+
+<td align="center">
+
+### ⚖️
+
+**Legal**
+
+Technology
+
+</td>
+
+<td align="center">
+
+### 🎨
+
+**UI/UX**
+
+Design
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# ☕ Fun Fact
+# 📚 Currently Learning
 
-I enjoy building software that solves real operational problems — from 🚍 transport systems to 🏥 healthcare applications and 🌐 business platforms.
+<div align="center">
+
+```text
+Java & Advanced OOP
+        ↓
+Data Structures & Algorithms
+        ↓
+Backend Development
+        ↓
+REST API Design
+        ↓
+System Design
+        ↓
+AI / Machine Learning
+        ↓
+RAG & LLM Applications
+        ↓
+Cloud & DevOps
+```
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<table>
+<tr>
+
+<td>
+
+* [ ] 🚀 Build production-quality applications
+* [ ] ☕ Improve Java & Spring Boot
+* [ ] 🧠 Develop AI/ML applications
+* [ ] 🏗️ Improve system design
+* [ ] 🧪 Learn automated testing
+* [ ] ⚙️ Implement CI/CD
+* [ ] 🐳 Learn Docker
+* [ ] ☁️ Improve cloud deployment
+* [ ] 🌎 Contribute to open source
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jasonrj12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrj12&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=jasonrj12&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasonrj12&theme=tokyo-night&hide_border=true&area=true">
+
+</div>
+
+---
+
+# 💼 Professional Focus
+
+<div align="center">
+
+### Software Engineering
+
+`OOP` · `Data Structures` · `System Design`
+
+### Full-Stack Development
+
+`React` · `JavaScript` · `Node.js` · `PHP`
+
+### Databases
+
+`Firebase` · `MySQL` · `SQL`
+
+### AI / ML
+
+`NLP` · `Embeddings` · `RAG` · `LLMs`
+
+### Development
+
+`Git` · `GitHub` · `REST APIs` · `Figma`
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/jasonrj12">
+<img src="https://img.shields.io/badge/GitHub-jasonrj12-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/renish-jason-b96b8023b/">
+<img src="https://img.shields.io/badge/LinkedIn-Renish%20Jason-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://renishjason.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-renishjason.netlify.app-00C7B7?style=for-the-badge&logo=netlify">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## 💬
 
-If you like my projects, consider giving a ⭐ to the repositories and following my GitHub profile.
+### "I don't just want to write code — I want to build software that solves real problems."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=jasonrj12&label=Profile%20Views&color=667eea&style=flat">
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer">
+
